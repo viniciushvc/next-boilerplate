@@ -45,7 +45,7 @@
 		"@storybook/addon-links": "^7.6.17",
 		"@storybook/addon-onboarding": "^8.0.5",
 		"@storybook/blocks": "^7.6.17",
-		"@storybook/nextjs": "^7.6.17",
+		"@storybook/nextjs": "^8.0.5",
 		"@storybook/react": "^7.6.17",
 		"@storybook/test": "^7.6.17",
 		"@tailwindcss/typography": "^0.5.12",
