@@ -41,7 +41,7 @@
 	"devDependencies": {
 		"@biomejs/biome": "1.5.3",
 		"@storybook/addon-essentials": "^7.6.17",
-		"@storybook/addon-interactions": "^7.6.17",
+		"@storybook/addon-interactions": "^8.0.5",
 		"@storybook/addon-links": "^7.6.17",
 		"@storybook/addon-onboarding": "^8.0.5",
 		"@storybook/blocks": "^7.6.17",
