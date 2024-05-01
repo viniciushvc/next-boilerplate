@@ -13,7 +13,7 @@ dependencies:
     version: 1.0.2(@types/react@18.2.73)(react@18.2.0)
   '@t3-oss/env-nextjs':
     specifier: ^0.9.2
-    version: 0.9.2(typescript@5.4.3)(zod@3.22.4)
+    version: 0.9.2(typescript@5.4.3)(zod@3.23.5)
   class-variance-authority:
     specifier: ^0.7.0
     version: 0.7.0
@@ -42,8 +42,8 @@ dependencies:
     specifier: ^1.0.7
     version: 1.0.7(tailwindcss@3.4.3)
   zod:
-    specifier: ^3.22.4
-    version: 3.22.4
+    specifier: ^3.23.5
+    version: 3.23.5
 
 devDependencies:
   '@biomejs/biome':
@@ -3860,7 +3860,7 @@ packages:
     dependencies:
       tslib: 2.6.2
 
-  /@t3-oss/env-core@0.9.2(typescript@5.4.3)(zod@3.22.4):
+  /@t3-oss/env-core@0.9.2(typescript@5.4.3)(zod@3.23.5):
     resolution: {integrity: sha512-KgWXljUTHgO3o7GMZQPAD5+P+HqpauMNNHowlm7V2b9IeMitSUpNKwG6xQrup/xARWHTdxRVIl0mSI4wCevQhQ==}
     peerDependencies:
       typescript: '>=5.0.0'
@@ -3870,10 +3870,10 @@ packages:
         optional: true
     dependencies:
       typescript: 5.4.3
-      zod: 3.22.4
+      zod: 3.23.5
     dev: false
 
-  /@t3-oss/env-nextjs@0.9.2(typescript@5.4.3)(zod@3.22.4):
+  /@t3-oss/env-nextjs@0.9.2(typescript@5.4.3)(zod@3.23.5):
     resolution: {integrity: sha512-dklHrgKLESStNVB67Jdbu6osxDYA+xNKaPBRerlnkEvzbCccSKMvZENx6EZebJuR4snqB3/yRykNMn/bdIAyiQ==}
     peerDependencies:
       typescript: '>=5.0.0'
@@ -3882,9 +3882,9 @@ packages:
       typescript:
         optional: true
     dependencies:
-      '@t3-oss/env-core': 0.9.2(typescript@5.4.3)(zod@3.22.4)
+      '@t3-oss/env-core': 0.9.2(typescript@5.4.3)(zod@3.23.5)
       typescript: 5.4.3
-      zod: 3.22.4
+      zod: 3.23.5
     dev: false
 
   /@tailwindcss/typography@0.5.12(tailwindcss@3.4.3):
@@ -10641,6 +10641,6 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /zod@3.22.4:
-    resolution: {integrity: sha512-iC+8Io04lddc+mVqQ9AZ7OQ2MrUKGN+oIQyq1vemgt46jwCwLfhq7/pwnBnNXXXZb8VTVLKwp9EDkx+ryxIWmg==}
+  /zod@3.23.5:
+    resolution: {integrity: sha512-fkwiq0VIQTksNNA131rDOsVJcns0pfVUjHzLrNBiF/O/Xxb5lQyEXkhZWcJ7npWsYlvs+h0jFWXXy4X46Em1JA==}
     dev: false
