@@ -59,8 +59,8 @@ devDependencies:
     specifier: ^8.0.5
     version: 8.0.5(react@18.2.0)
   '@storybook/addon-onboarding':
-    specifier: ^8.0.5
-    version: 8.0.5
+    specifier: ^8.0.9
+    version: 8.0.9
   '@storybook/blocks':
     specifier: ^8.0.5
     version: 8.0.5(@types/react@18.2.73)(react-dom@18.2.0)(react@18.2.0)
@@ -2799,8 +2799,8 @@ packages:
       tiny-invariant: 1.3.3
     dev: true
 
-  /@storybook/addon-onboarding@8.0.5:
-    resolution: {integrity: sha512-EZknQHmQfm/jmQu6u97Tb6FXuhOexLUOQ/onsHeZ5yNIFa+m1mXg8StZXzCXNm2xUGsC5ISwTi9NMQ6e7Cg+nQ==}
+  /@storybook/addon-onboarding@8.0.9:
+    resolution: {integrity: sha512-gRPn8ooxTmdamfJgdkQR48pza67S83l2DDlZ3C1kuus19UO+eIFUEVZJbud9qQojq7jc8ztaYXiNObWdxKu29A==}
     dev: true
 
   /@storybook/addon-outline@8.0.9:
