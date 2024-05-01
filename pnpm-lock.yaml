@@ -62,8 +62,8 @@ devDependencies:
     specifier: ^8.0.5
     version: 8.0.5
   '@storybook/blocks':
-    specifier: ^8.0.5
-    version: 8.0.5(@types/react@18.2.73)(react-dom@18.2.0)(react@18.2.0)
+    specifier: ^8.0.9
+    version: 8.0.9(@types/react@18.2.73)(react-dom@18.2.0)(react@18.2.0)
   '@storybook/nextjs':
     specifier: ^8.0.5
     version: 8.0.5(esbuild@0.20.2)(next@14.1.4)(react-dom@18.2.0)(react@18.2.0)(typescript@5.4.3)(webpack@5.90.0)
@@ -2835,7 +2835,7 @@ packages:
       '@storybook/client-logger': 8.0.5
       '@storybook/components': 8.0.5(@types/react@18.2.73)(react-dom@18.2.0)(react@18.2.0)
       '@storybook/core-events': 8.0.5
-      '@storybook/csf': 0.1.2
+      '@storybook/csf': 0.1.6
       '@storybook/docs-tools': 8.0.5
       '@storybook/global': 5.0.0
       '@storybook/icons': 1.2.9(react-dom@18.2.0)(react@18.2.0)
@@ -3079,7 +3079,7 @@ packages:
       '@babel/core': 7.23.9
       '@babel/preset-env': 7.23.9(@babel/core@7.23.9)
       '@babel/types': 7.23.9
-      '@storybook/csf': 0.1.2
+      '@storybook/csf': 0.1.6
       '@storybook/csf-tools': 8.0.5
       '@storybook/node-logger': 8.0.5
       '@storybook/types': 8.0.5
@@ -3103,7 +3103,7 @@ packages:
     dependencies:
       '@radix-ui/react-slot': 1.0.2(@types/react@18.2.73)(react@18.2.0)
       '@storybook/client-logger': 8.0.5
-      '@storybook/csf': 0.1.2
+      '@storybook/csf': 0.1.6
       '@storybook/global': 5.0.0
       '@storybook/icons': 1.2.9(react-dom@18.2.0)(react@18.2.0)
       '@storybook/theming': 8.0.5(react-dom@18.2.0)(react@18.2.0)
@@ -3231,7 +3231,7 @@ packages:
       '@storybook/channels': 8.0.5
       '@storybook/core-common': 8.0.5
       '@storybook/core-events': 8.0.5
-      '@storybook/csf': 0.1.2
+      '@storybook/csf': 0.1.6
       '@storybook/csf-tools': 8.0.5
       '@storybook/docs-mdx': 3.0.0
       '@storybook/global': 5.0.0
@@ -3305,7 +3305,7 @@ packages:
       '@babel/parser': 7.23.9
       '@babel/traverse': 7.23.9
       '@babel/types': 7.23.9
-      '@storybook/csf': 0.1.2
+      '@storybook/csf': 0.1.6
       '@storybook/types': 8.0.5
       fs-extra: 11.2.0
       recast: 0.23.6
