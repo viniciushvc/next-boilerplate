@@ -42,7 +42,7 @@
 		"@biomejs/biome": "1.6.3",
 		"@storybook/addon-essentials": "^8.0.9",
 		"@storybook/addon-interactions": "^8.0.5",
-		"@storybook/addon-links": "^8.0.5",
+		"@storybook/addon-links": "^8.0.9",
 		"@storybook/addon-onboarding": "^8.0.5",
 		"@storybook/blocks": "^8.0.5",
 		"@storybook/nextjs": "^8.0.5",

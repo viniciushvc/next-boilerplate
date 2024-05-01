@@ -56,8 +56,8 @@ devDependencies:
     specifier: ^8.0.5
     version: 8.0.5(vitest@1.4.0)
   '@storybook/addon-links':
-    specifier: ^8.0.5
-    version: 8.0.5(react@18.2.0)
+    specifier: ^8.0.9
+    version: 8.0.9(react@18.2.0)
   '@storybook/addon-onboarding':
     specifier: ^8.0.5
     version: 8.0.5
@@ -2778,15 +2778,15 @@ packages:
       - vitest
     dev: true
 
-  /@storybook/addon-links@8.0.5(react@18.2.0):
-    resolution: {integrity: sha512-B5EAs0+LxgYH59GSVVAfgW8rAzGUmzdAAR3XJKbTXp3/d9e27uXwpLVYhi/VQHKLIsshDQRbc0s109APHs/SjQ==}
+  /@storybook/addon-links@8.0.9(react@18.2.0):
+    resolution: {integrity: sha512-FVt+AdW3JFSqbJzkKiqKsMRWqHXqEvCBqFs7lNfk3OW0w0jfv1iREtrxE0dVdJoUFQC9V/2Im/EpJ7UB3C2bNQ==}
     peerDependencies:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0
     peerDependenciesMeta:
       react:
         optional: true
     dependencies:
-      '@storybook/csf': 0.1.2
+      '@storybook/csf': 0.1.6
       '@storybook/global': 5.0.0
       react: 18.2.0
       ts-dedent: 2.2.0
